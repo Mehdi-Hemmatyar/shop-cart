@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  overflow: auto;
+}
+ .total-footer {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  height : 8vh;
+ }
